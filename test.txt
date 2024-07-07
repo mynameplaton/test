@@ -1,1 +1,3 @@
 print("amogus")
+print("amogus231")
+print("amogus948")
